@@ -12,6 +12,12 @@
   <img src="https://img.shields.io/badge/‎-Django-0C4B33?logo=django&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge">
+  <br>
+  <img src="https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux&logoColor=6bbbca">
+  <img src="https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python&logoColor=6bbbca">
+  <img src="https://img.shields.io/badge/Django-333?style=for-the-badge&logo=django&logoColor=6bbbca">
+  <img src="https://img.shields.io/badge/HTML-333?style=for-the-badge&logo=html5&logoColor=6bbbca">
+  <img src="https://img.shields.io/badge/CSS-333?style=for-the-badge&logo=css3&logoColor=6bbbca">
 </div>
 
 
